@@ -1,0 +1,1 @@
+cmd_mediatek/custom/out/s9086b/kernel/usb/built-in.o :=  /home/hyperion/android_tools/4.6.3-pre-build/bin/arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/custom/out/s9086b/kernel/usb/built-in.o mediatek/custom/out/s9086b/kernel/usb/mtk_usb_custom.o 
